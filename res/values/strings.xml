@@ -42,7 +42,7 @@
     <string name="enable_reporting_title">Enable reporting</string>
     <string name="disable_reporting_persistent">Persistent opt-out</string>
     <string name="preview_data_title">Preview data</string>
-    <string name="preview_data_summary">%s</string>
+    <string name="preview_data_summary" translatable="false">%s</string>
     <string name="view_stats_title">View stats</string>
     <string name="anonymous_learn_more">Learn more</string>
     
@@ -74,6 +74,6 @@
     <string name="pref_info_changelog">Change log</string>
     <string name="pref_info_changelog_desc">Show the change log</string>
     <string name="pref_info_website">Web site</string>
-    <string name="pref_info_website_url">http://forum.xda-developers.com/showthread.php?t=2087099</string>
+    <string name="pref_info_website_url" translatable="false">http://forum.xda-developers.com/showthread.php?t=2087099</string>
     
 </resources>
